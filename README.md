@@ -32,3 +32,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+[comment]: <> (This is a comment, it will not be included)
+[] Implement Search
+- Search by prompt
+- Search by tag
+- Search by username
+[] Implement Click on tag
+[] Implement View other profiles
