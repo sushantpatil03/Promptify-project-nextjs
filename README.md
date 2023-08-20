@@ -6,4 +6,4 @@
 
 As we all know, making even a minor enhancement to the prompt that you're about to input into ChatGPT or Midjourney can significantly elevate the quality of the generated output. By using Promptify, you have access to prompt templates tailored for various domains such as emails, blogs, productivity, 4K image generation, and more. And we are not over yet, you can create your own customised prompts and share them with the community!
 
-# [Visit Promptify](https://promptifybysushant.vercel.app/)
+### [Visit Promptify](https://promptifybysushant.vercel.app/)
