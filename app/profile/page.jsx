@@ -18,6 +18,7 @@ const MyProfile = () => {
     const handleEdit = (post) => {
       router.push(`/update-prompt?id=${post._id}`)
     }
+    
     const handleDelete = async (post) => {
       const hasConfirmed = confirm("Are you sure you want to delete this prompt? 🥺");
       if(hasConfirmed){
@@ -35,9 +36,9 @@ const MyProfile = () => {
     }
 
     const fetchPosts = async () => {
+        // console.log(session?.user.id);
         const response = await fetch(`/api/users/${session?.user.id}/posts`);
         const data = await response.json();
-    
         setPosts(data);
       };
     
