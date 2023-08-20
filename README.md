@@ -10,3 +10,4 @@ As we all know, making even a minor enhancement to the prompt that you're about 
 <br>
 Take a glance of the app -
 <br>
+![20230816_232446](https://github.com/sushantpatil03/Promptify-project-nextjs/assets/120216151/6c92b071-900e-4c11-bf45-73c130070e48)
